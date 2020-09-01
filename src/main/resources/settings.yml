@@ -1,0 +1,5 @@
+configs_version: 1
+
+Plugin:
+  name: "Skribe"
+  prefix: "&aSkribe &8|&7 "

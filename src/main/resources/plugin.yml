@@ -1,0 +1,9 @@
+main: io.th0rgal.skribe.SkribePlugin
+name: Skribe
+version: ${projectVersion}
+author: Th0rgal
+api-version: "1.13"
+commands:
+  oraxen:
+    description: Main command of Oraxen.
+    aliases: [ s, skb, sribe ]
